@@ -1,0 +1,15 @@
+body{
+    overflow-x: hidden;
+    background-color: #000;
+    cursor: url(c.png), auto;
+}
+
+#title{
+    color: green;
+    text-align: center;
+}
+
+#subtitle{
+    color: green;
+    text-align: center;
+}
